@@ -1,6 +1,6 @@
 {
   "name": "jsdoc-json",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Template for JSDoc that outputs JSON",
   "repository": {
     "type": "git",
