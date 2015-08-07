@@ -1,0 +1,18 @@
+{
+  "name": "jsdoc-json",
+  "version": "0.0.0",
+  "description": "Template for JSDoc that outputs JSON",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tschaub/jsdoc-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tschaub/jsdoc-json/issues"
+  },
+  "main": "publish.js",
+  "keywords": [
+    "JSDoc",
+    "JSON"
+  ],
+  "license": "MIT"
+}
