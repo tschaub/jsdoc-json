@@ -8,7 +8,7 @@ var fs = require('fs');
 exports.publish = function(data, opts) {
 
   var docs = data().get().filter(function(doc) {
-    return doc.access !== 'private' && !doc.undocumented;
+    return !doc.undocumented;
   });
 
   fs.writeFileSync(opts.destination, JSON.stringify({docs: docs}, null, 2));
