@@ -1,5 +1,7 @@
 # jsdoc-json
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tschaub/jsdoc-json.svg)](https://greenkeeper.io/)
+
 A JSDoc template that generates JSON
 
 ## install
